@@ -1,0 +1,34 @@
+.calculator {
+    font-weight: 300px;
+    display: grid;
+    margin: auto;
+    padding: 10px;
+    background-color: #bebebe;
+    color: hsl(0, 0%, 100%);
+    border-radius: 0.02px;
+}
+
+#output {
+    display: -white;
+    width: 100px;
+    height: 20px;
+    font-weight: bold;
+    text-align: right;
+    margin-bottom: 5px;
+    font-size: xx-large;
+    text-shadow: 100-px 100px 1000 #000;
+
+}
+
+.buttons {
+display: white;
+}
+
+#button{
+    width: 100px;
+    height: 50px;
+    font-size: xx-large;
+    border:none;
+    cursor:pointer;
+}
+
